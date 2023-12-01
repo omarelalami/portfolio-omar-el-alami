@@ -1,0 +1,191 @@
+{
+  "basics": {
+    "name": "Omar El Alami",
+    "label": "Data Scientist",
+    "summary": "Implementing demanding features, required by both clients and systems. Attracted to performance critical elements. Interested in solving problems at scale. Employer of both KISS and Avoid Premature Optimisation. Whilst abiding to the Agile methodology.",
+    "email": "hello@matthew-sutton.com",
+    "image": {
+      "small": "C:/Users/OMAR/Desktop/Parcours/L3aybat/omarphoto.jpg",
+      "medium": "C:/Users/OMAR/Desktop/Parcours/L3aybat/omarphoto.jpg",
+      "large": "C:/Users/OMAR/Desktop/Parcours/L3aybat/omarphoto.jpg"
+    },
+    "phone": "",
+    "website": "https://github.com/omarelalami",
+    "location": {
+      "address": "France",
+      "postalCode": "93270",
+      "city": "Paris",
+      "countryCode": "",
+      "region": ""
+    },
+    "github": {
+      "username": "omarelalami",
+      "url": "https://github.com/omarelalami/"
+    },
+    "linkedin": {
+      "username": "Omar El Alami",
+      "url": "https://www.linkedin.com/in/omar-el-alami-682a281b3/"
+    }
+  },
+  "work": [
+    {
+      "name": "EPG",
+      "position": "Data Scientist",
+      "url": "https://www.codeweavers.net",
+      "startDate": "Avril, 2023",
+      "endDate": "",
+      "summary": "Progressed into the lead position within the Digital Store platform, managing and planning the projects, that the team backing the platform, would be working on. Speaking closely to clients, ensuring all requirements were fulfilled, in a way that enhanced the platform, for not only them but all clients using it.",
+      "highlights": [
+        {
+          "title": "Personal Highlight",
+          "description": "Migrating our Frontend architecture to be hosted from AWS, reducing average latency by over 1 second. Then working on the migration of our Backend to AWS, currently focusing on the update of the framework from .Net Framework 4.7 to .Net 6."
+        },
+        {
+          "title": "Management",
+          "description": "Taking on the responsibility of managing multiple developers within the Digital Store platform. Conducting monthly individual catchup's and ensuring the team is meeting the expected requirements. Whilst also taking an active role in recruitment."
+        },
+        {
+          "title": "Internationalisation",
+          "description": "Releasing our Digital Store into multiple new markets; <a href=\"https://selekt.volvocars.co.uk\" target=\"_blank\">UK</a>, <a href=\"https://selekt.volvocars.no\" target=\"_blank\">Norway</a>, <a href=\"https://selekt.volvocars.at\" target=\"_blank\">Austria</a> and many more. All using the same platform with a personalised configuration, making the site their own."
+        }
+      ]
+    },
+    {
+      "name": "SMART-TRANSFORMATION, Fès",
+      "position": "Développeur Web",
+      "url": "https://www.smart-transformation-fes.com",
+      "startDate": "Date de début",
+      "endDate": "Date de fin",
+      "summary": "Conception et développement du site web officiel de IR4Lab pour SMART-TRANSFORMATION, Fès. Utilisation des frameworks Spring Boot et Angular pour garantir une performance optimale et une expérience utilisateur fluide.",
+      "highlights": [
+      {
+      "title": "Technologies clés",
+      "description": "Utilisation des frameworks Spring Boot pour le backend et Angular pour le frontend, assurant une architecture robuste et moderne du site web."
+      },
+      {
+      "title": "Design Responsif",
+      "description": "Mise en place d'un design responsive pour assurer une expérience utilisateur optimale sur tous les appareils, du bureau aux smartphones."
+      },
+      {
+      "title": "Collaboration étroite",
+      "description": "Collaboration étroite avec l'équipe de SMART-TRANSFORMATION, Fès, pour comprendre les besoins spécifiques et s'assurer que le site web répond aux attentes de manière efficace."
+      }
+      ]
+      },
+      
+    
+      {
+        "name": "EST, Fès",
+        "position": "Stagiaire en Projet de Fin d'Études",
+        "url": "Lien vers l'établissement",
+        "startDate": "2022",
+        "endDate": "Date de fin du stage",
+        "summary": "Projet de Fin d'Études réalisé à l'EST, Fès, consistant en la simulation de la certification, de la signature, de la mise en Blockchain et de la vérification des documents PDF.",
+        "highlights": [
+        {
+        "title": "Certification et Signature",
+        "description": "Implémentation d'un système de certification et de signature électronique pour assurer l'authenticité des documents PDF générés par le système."
+        },
+        {
+        "title": "Blockchain",
+        "description": "Intégration de la technologie Blockchain pour garantir l'intégrité et la traçabilité des documents, renforçant ainsi la sécurité du processus global."
+        },
+        {
+        "title": "Vérification des Documents",
+        "description": "Mise en place d'un mécanisme de vérification des documents PDF afin de permettre aux utilisateurs de confirmer l'authenticité des informations présentes dans les fichiers."
+        }
+        ]
+        
+    },
+    {
+      "name": "La commune, Fès",
+      "position": "Développeur Front-End",
+      "url": "Lien vers le site",
+      "startDate": "Date de début",
+      "endDate": "Date de fin",
+      "summary": "Conception et développement de l'interface utilisateur (Front-End) pour un site web complet dédié au freelancing, en partenariat avec La Commune, Fès. Le concept du site vise à simplifier les demandes et transactions entre les clients et les designers, mettant l'accent sur le domaine du design.",
+      "highlights": [
+      {
+      "title": "Expérience Utilisateur",
+      "description": "Création d'une interface conviviale pour faciliter les interactions entre les clients et les designers, favorisant une expérience utilisateur optimale."
+      },
+      {
+      "title": "Design Centré sur le Freelancing",
+      "description": "Adaptation du design du site pour mettre en avant les aspects spécifiques au freelancing, permettant une navigation intuitive et efficace pour les utilisateurs du secteur."
+      },
+      {
+      "title": "Gestion des Transactions",
+      "description": "Intégration de fonctionnalités facilitant les transactions entre les clients et les designers, afin de rendre le processus transparent et sécurisé."
+      }
+      ]
+      }
+      ],
+  "BIG DATA  and Logiciel": [
+    "PowerBI",
+    "Talend",
+    "Visual-Code",
+    "RapideMiner",
+    "HADOOP",
+    "ELASCTIC-SEARCH",
+    "Tableau",
+    "Sql-Server",
+    "Intelig",
+    "PyCharm",
+    "Hbase",
+    "Hive",
+    "Kafka",
+    "Cassandra"
+  ],
+  "skills": [
+    "Python",
+    "Spring Boot",
+    "Angular",
+    "TypeScript",
+    "Javascript",
+    "Bash",
+    "Postgres",
+    "SQL Server",
+    "Keras",
+    "TensorFlow",
+    "CNN",
+    "Docker"
+  ],
+  "education": [
+    {
+      "institution": "Ecole supèrieure de technologie",
+      "url": "http://www.est-usmba.ac.ma/",
+      "area": "Génie Informatique",
+      "studyType": "DUT",
+      "startDate": "September, 2019",
+      "endDate": "May, 2022",
+      "score": "First"
+    },
+    {
+      "institution": "Ecole supèrieure de technologie",
+      "url": "http://estfbs.usms.ac.ma/",
+      "area": "BIG DATA",
+      "studyType": "Licence professionnelle",
+      "startDate": "September, 2022",
+      "endDate": "May, 2023",
+      "score": "Distinction* Distinction* Distinction*"
+    },
+    {
+      "institution": "HETIC",
+      "url": "http://estfbs.usms.ac.ma/",
+      "area": "DATA & AI",
+      "studyType": "Master",
+      "startDate": "September, 2023",
+      "endDate": "",
+      "score": "Distinction* Distinction* Distinction*"
+    }
+  ],
+  "awards": [],
+  "certificates": [],
+  "publications": [],
+  "languages": [],
+  "interests": [],
+  "references": [],
+  "projects": [
+    
+  ]
+}
